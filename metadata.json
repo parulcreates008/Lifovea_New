@@ -1,0 +1,6 @@
+{
+  "name": "LiFovea - Foveated LiDAR Mapping & Synthetic Obstacle Simulator",
+  "description": "Adaptive variable-resolution LiDAR mapping dashboard with synthetic obstacle injection, real-time hazard monitoring, 2.5D elevation fusion, and A* path planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
